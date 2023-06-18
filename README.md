@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
 <h3 align="center">A front-end developer from Argentina</h3>
 
-- 🔭 I’m currently working on [TalkingCart](talkingcart.com)
+- 🔭 I’m currently working on [TalkingCart](https://talkingcart.com)
 
 - 🌱 I’m currently learning **Svelte and ChatGPT Embeddings**
 
