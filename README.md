@@ -9,9 +9,7 @@
 
 - 📝 I regularly write articles on [https://manuelgudino-blog.vercel.app](https://manuelgudino-blog.vercel.app)
 
-- 💬 Ask me about **React**
-
-- 📫 How to reach me **mgudinocontacto@gmail.com**
+- 📫 Reach me out with an email to **mgudinocontacto@gmail.com**
 
 - 📄 Know about my experiences [https://manuelgudino.vercel.app/cv](https://manuelgudino.vercel.app/cv)
 
