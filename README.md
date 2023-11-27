@@ -2,4 +2,4 @@
 
 Talking about me, I've loved puzzles and problem-solving since I was a kid, and never got tired of it. After coding everyday for the past 18 months, I've encountered hundreds of challenges and learned about things I didn't even know existed. The thrive to gain knowledge is what makes software exciting for me.
 
-I'm currently open to new opportunities, so feel free to contact me through mgudinocontacto@gmail.com! I also like blogging and sharing my personal projects at mgudino.me if you're interested.
+I'm always open to new opportunities, so feel free to contact me through mgudinocontacto@gmail.com! I also like blogging and sharing my personal projects at mgudino.me if you're interested.
