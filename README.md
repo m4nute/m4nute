@@ -1,5 +1,8 @@
-👋🏻 Hello, I'm Manu. I've worked in multiple projects as a full-stack developer. I really enjoy what I do, from UI design to complex back-end architectures. That motivates me to deliver great results and keep improving. Lately I've been exploring the AI field, using vector databases, LLM's, and learning a lot everyday about the field.
+Hey! I'm Manu. For the past year I've been working for multiple start-ups across North America and Europe as a Full-Stack developer (front-end heavy), specializing in building web applications / MVPs from scratch, and turning their ideas into great and performant UIs. 
 
-Talking about me, I've loved puzzles and problem-solving since I was a kid, and never got tired of it. After coding everyday for the past 18 months, I've encountered hundreds of challenges and learned about things I didn't even know existed. The thrive to gain knowledge is what makes software exciting for me.
+I focus on SvelteKit and Next.js/React development, alongside TypeScript, TailwindCSS and popular libraries, such as ShadcnUI and OpenAI API for AI integrations. I also enjoy diving deep into new technologies and the more technical side of a product/solution.
 
-I'm always open to new opportunities, so feel free to contact me through mgudinocontacto@gmail.com! I also like blogging and sharing my personal projects at mgudino.me if you're interested.
+I usually go for Upwork as my preferred working platform.
+My profile: https://www.upwork.com/freelancers/~01653bb7abb6de2edd
+
+I'm open to new opportunities, so feel free to contact me through mgudinocontacto@gmail.com! I also like blogging and sharing my personal projects at mgudino.me if you're interested.
