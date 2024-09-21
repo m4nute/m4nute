@@ -5,4 +5,4 @@ I focus on SvelteKit and Next.js/React development, alongside TypeScript, Tailwi
 I usually go for Upwork as my preferred working platform.
 My profile: https://www.upwork.com/freelancers/~01653bb7abb6de2edd
 
-I'm open to new opportunities, so feel free to contact me through gdnomanu@gmail.com!
+Feel free to contact me through gdnomanu@gmail.com for any work opportunity!
